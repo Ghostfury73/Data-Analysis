@@ -1,0 +1,149 @@
+name,online_order,book_table,rate,votes,approx_cost(for two people),listed_in(type),review,sentiment
+Jalsa,Yes,Yes,4.1,775,800,Buffet,I would definitely recommend this place,Neutral
+Spice Elephant,Yes,No,4.1,787,800,Buffet,The food took too long to arrive,Negative
+San Churro Cafe,Yes,No,3.8,918,800,Buffet,The restaurant decor is stunning,Positive
+Addhuri Udupi Bhojana,No,No,3.7,88,300,Buffet,The service was subpar,Neutral
+Grand Village,No,No,3.8,166,600,Buffet,The food took too long to arrive,Negative
+Timepass Dinner,Yes,No,3.8,286,600,Buffet,The waiter was very friendly,Positive
+Rosewood International Hotel - Bar & Restaurant,No,No,3.6,8,800,Buffet,Service was awful,Negative
+Onesta,Yes,Yes,4.6,2556,600,Cafes,The food took too long to arrive,Negative
+Penthouse Cafe,Yes,No,4.0,324,700,other,The desserts were amazing,Positive
+Smacznego,Yes,No,4.2,504,550,Cafes,The service was subpar,Neutral
+Village Café,Yes,No,4.1,402,500,Cafes,The food took too long to arrive,Negative
+Cafe Shuffle,Yes,Yes,4.2,150,600,Cafes,The desserts were amazing,Positive
+The Coffee Shack,Yes,Yes,4.2,164,500,Cafes,The service was subpar,Neutral
+Caf-Eleven,No,No,4.0,424,450,Cafes,The food took too long to arrive,Negative
+San Churro Cafe,Yes,No,3.8,918,800,Cafes,The food was great!,Positive
+Cafe Vivacity,Yes,No,3.8,90,650,Cafes,The restaurant decor is stunning,Positive
+Catch-up-ino,Yes,No,3.9,133,800,Cafes,The waiter was very friendly,Positive
+Kirthi's Biryani,Yes,No,3.8,144,700,Cafes,The food took too long to arrive,Negative
+T3H Cafe,No,No,3.9,93,300,Cafes,I would definitely recommend this place,Neutral
+360 Atoms Restaurant And Cafe,Yes,No,3.1,13,400,Cafes,The desserts were amazing,Positive
+The Vintage Cafe,Yes,No,3.0,62,400,Cafes,The service was subpar,Neutral
+Woodee Pizza,Yes,No,3.7,180,500,Cafes,The waiter was very friendly,Positive
+Cafe Coffee Day,No,No,3.6,28,900,Cafes,The waiter was very friendly,Positive
+My Tea House,Yes,No,3.6,62,600,Cafes,The service was subpar,Neutral
+Hide Out Cafe,No,No,3.7,31,300,Cafes,The waiter was very friendly,Positive
+CAFE NOVA,No,No,3.2,11,600,Cafes,I would definitely recommend this place,Neutral
+Coffee Tindi,Yes,No,3.8,75,200,Cafes,The food was great!,Positive
+Sea Green Cafe,No,No,3.3,4,500,Cafes,The food took too long to arrive,Negative
+Cuppa,No,No,3.3,23,550,Cafes,The desserts were amazing,Positive
+Srinathji's Cafe,No,No,3.8,148,550,Cafes,I loved the ambiance,Positive
+Redberrys,Yes,No,4.0,219,600,Cafes,The desserts were amazing,Positive
+Foodiction,Yes,No,2.8,506,500,other,The restaurant decor is stunning,Positive
+Sweet Truth,Yes,No,3.9,35,500,Dining,The experience was disappointing,Negative
+Ovenstory Pizza,Yes,No,3.9,172,750,Dining,Service was awful,Negative
+Faasos,Yes,No,4.2,415,500,other,The restaurant decor is stunning,Positive
+Behrouz Biryani,Yes,No,3.9,230,650,Dining,The food took too long to arrive,Negative
+Fast And Fresh,Yes,No,2.8,91,400,Dining,I loved the ambiance,Positive
+Szechuan Dragon,Yes,No,4.2,1647,600,Dining,The service was subpar,Neutral
+Empire Restaurant,Yes,No,4.4,4884,750,other,I loved the ambiance,Positive
+Maruthi Davangere Benne Dosa,Yes,No,4.0,17,150,Dining,The food was great!,Positive
+Chaatimes,Yes,No,3.8,133,200,Dining,The waiter was very friendly,Positive
+Havyaka Mess,No,No,3.9,28,300,Dining,The service was subpar,Neutral
+McDonald's,Yes,No,3.9,286,500,Dining,The desserts were amazing,Positive
+Domino's Pizza,Yes,No,3.9,540,800,Dining,The experience was disappointing,Negative
+Onesta,Yes,Yes,4.6,2556,600,other,The restaurant decor is stunning,Positive
+Hotboxit,No,No,3.8,36,400,Dining,The food was great!,Positive
+Kitchen Garden,Yes,No,3.6,244,300,Dining,I loved the ambiance,Positive
+Recipe,Yes,No,4.0,804,450,Dining,The food took too long to arrive,Negative
+Beijing Bites,Yes,No,3.7,679,850,Dining,The service was subpar,Neutral
+Tasty Bytes,Yes,No,3.1,245,300,Dining,The food was great!,Positive
+Petoo,No,No,3.7,21,450,Dining,The waiter was very friendly,Positive
+Shree Cool Point,Yes,No,4.1,28,150,Dining,I loved the ambiance,Positive
+Corner House Ice Cream,No,No,4.3,345,400,Dining,The desserts were amazing,Positive
+Biryanis And More,Yes,No,4.0,618,750,Dining,The food took too long to arrive,Negative
+Roving Feast,No,No,4.0,1047,450,Dining,The service was subpar,Neutral
+FreshMenu,Yes,No,3.9,627,450,Dining,The experience was disappointing,Negative
+Banashankari Donne Biriyani,Yes,No,3.8,104,300,Dining,The experience was disappointing,Negative
+Wamama,Yes,Yes,4.2,354,800,other,I loved the ambiance,Positive
+Five Star Chicken,No,No,3.6,55,200,Dining,The desserts were amazing,Positive
+XO Belgian Waffle,Yes,No,3.7,17,400,Dining,I loved the ambiance,Positive
+Peppy Peppers,No,No,4.2,244,800,other,The desserts were amazing,Positive
+Goa 0 Km,Yes,Yes,3.6,163,800,Dining,The experience was disappointing,Negative
+Chinese Kitchen,Yes,No,3.8,58,150,Dining,The waiter was very friendly,Positive
+Jeet Restaurant,No,Yes,4.0,808,850,Dining,Service was awful,Negative
+Cake of the Day,No,No,3.7,78,150,Dining,The experience was disappointing,Negative
+Kabab Magic,Yes,No,4.1,1720,400,Dining,The service was subpar,Neutral
+Namma Brahmin's Idli,Yes,No,3.6,34,100,Dining,I loved the ambiance,Positive
+Gustoes Beer House,No,No,4.1,868,700,Dining,The food took too long to arrive,Negative
+Sugar Rush,No,No,3.8,39,300,Dining,Service was awful,Negative
+Burger King,Yes,No,3.2,71,600,Dining,The restaurant decor is stunning,Positive
+The Good Bowl,Yes,No,3.6,6,500,Dining,Service was awful,Negative
+The Biryani Cafe,No,No,4.1,520,300,Dining,Service was awful,Negative
+Spicy Tandoor,No,No,4.1,0,150,Dining,The restaurant decor is stunning,Positive
+LSD Cafe,No,No,2.9,84,700,other,I loved the ambiance,Positive
+Rolls On Wheels,No,No,3.6,299,300,Dining,The waiter was very friendly,Positive
+Om Sri Vinayaka Chats,No,No,3.6,0,500,Dining,The restaurant decor is stunning,Positive
+Sri Guru Kottureshwara Davangere Benne Dosa,Yes,No,4.1,558,150,Dining,The experience was disappointing,Negative
+Devanna Dum Biriyani Centre,Yes,No,3.6,28,300,Dining,The desserts were amazing,Positive
+Kolbeh,No,No,3.7,22,500,Dining,Service was awful,Negative
+Upahar Sagar,No,No,3.8,39,350,Dining,The service was subpar,Neutral
+Kadalu Sea Food Restaurant,Yes,No,3.8,153,500,Dining,The service was subpar,Neutral
+Frozen Bottle,Yes,No,4.2,146,400,Dining,The restaurant decor is stunning,Positive
+Parimala Sweets,No,No,3.5,14,200,Dining,I would definitely recommend this place,Neutral
+Vaishali Deluxe,No,No,3.8,42,700,Dining,The desserts were amazing,Positive
+Chill Out,No,No,3.8,0,100,Dining,The experience was disappointing,Negative
+The Big O Bakes,No,No,4.0,66,300,Dining,The service was subpar,Neutral
+Meghana Foods,Yes,No,4.4,4401,600,Dining,I loved the ambiance,Positive
+Krishna Sagar,No,No,3.5,31,200,Dining,The desserts were amazing,Positive
+Dessert Rose,No,No,3.5,7,500,Dining,The service was subpar,Neutral
+Chickpet Donne Biryani House,No,No,3.7,21,250,Dining,The experience was disappointing,Negative
+Me And My Cake,No,No,3.7,0,500,Dining,The desserts were amazing,Positive
+Sunsadm,No,No,3.7,0,400,Dining,The waiter was very friendly,Positive
+Annapooraneshwari Mess,No,No,3.7,0,200,Dining,The service was subpar,Neutral
+Thanco's Natural Ice Creams,No,No,3.2,9,300,Dining,The service was subpar,Neutral
+Nandhini Deluxe,No,No,2.6,283,600,Dining,The experience was disappointing,Negative
+Vi Ra's Bar and Restaurant,No,No,3.3,62,800,Dining,The experience was disappointing,Negative
+Kaggis,No,No,3.8,64,250,Dining,Service was awful,Negative
+Ayda Persian Kitchen,No,No,3.7,39,950,Dining,The desserts were amazing,Positive
+Chatar Patar,No,No,3.7,65,300,Dining,The desserts were amazing,Positive
+Polar Bear,Yes,No,3.8,71,400,Dining,The food was great!,Positive
+Kidambi's Kitchen,No,No,3.5,52,300,Dining,The desserts were amazing,Positive
+Mane Thindi,No,No,3.7,130,200,Dining,The restaurant decor is stunning,Positive
+Kotian Karavali Restaurant,No,No,3.5,10,300,Dining,The food was great!,Positive
+Floured-Baked With Love,No,No,3.8,45,400,Dining,The experience was disappointing,Negative
+CAFE NOVA,No,No,3.2,11,600,Dining,The desserts were amazing,Positive
+Cakes & Slices,No,No,3.5,13,300,Dining,Service was awful,Negative
+Spice 9,No,No,3.4,8,300,Dining,The waiter was very friendly,Positive
+Coffee Shopee,No,No,3.4,0,250,Dining,The food took too long to arrive,Negative
+Naveen Kabab & Biriyani Mane,No,No,3.2,9,300,Dining,The desserts were amazing,Positive
+Katriguppe Donne Biryani,No,No,3.2,4,300,Dining,The food took too long to arrive,Negative
+Hari Super Sandwich,No,No,3.2,0,200,Dining,The service was subpar,Neutral
+Atithi Point Ande Ka Funda,No,No,3.1,29,150,Dining,The desserts were amazing,Positive
+Just Bake,No,No,3.4,8,400,Dining,I would definitely recommend this place,Neutral
+Dharwad Line Bazaar Mishra Pedha,No,No,3.4,0,150,Dining,The restaurant decor is stunning,Positive
+Cake Bite,No,No,3.4,0,300,Dining,The food was great!,Positive
+Aarush's Food Plaza,No,No,3.4,0,200,Dining,The experience was disappointing,Negative
+Wood Stove,No,No,3.4,0,150,Dining,The experience was disappointing,Negative
+Kulfi & More,No,No,3.4,0,150,Dining,I would definitely recommend this place,Neutral
+Kannadigas Karavali,No,No,3.4,0,250,Dining,I loved the ambiance,Positive
+K27 - The Pub,No,No,3.1,30,900,Dining,I would definitely recommend this place,Neutral
+Bengaluru Coffee House,Yes,No,4.1,201,300,Dining,I would definitely recommend this place,Neutral
+New Mangalore Lunch Home,No,No,3.3,7,200,Dining,I would definitely recommend this place,Neutral
+Coffee Bytes,No,No,3.1,6,100,Dining,I loved the ambiance,Positive
+Parjanya Chat Zone,No,No,3.3,17,200,Dining,I would definitely recommend this place,Neutral
+Kwality Wall's Swirl's Happiness Station,No,No,2.9,25,200,Dining,The restaurant decor is stunning,Positive
+Soms Kitchen & Bakes,No,No,2.9,0,400,Dining,The food was great!,Positive
+Banashankari Nati Style,No,No,2.9,0,350,Dining,I would definitely recommend this place,Neutral
+Ruchi Maayaka,No,No,3.3,8,100,Dining,The restaurant decor is stunning,Positive
+Mohitesh Hut Roll,No,No,3.3,0,150,Dining,The restaurant decor is stunning,Positive
+Sri Basaveshwar Jolada Rotti Oota,No,No,3.4,0,150,Dining,The food took too long to arrive,Negative
+Roll Magic Fast Food,No,No,3.4,0,200,Dining,I would definitely recommend this place,Neutral
+Foodlieious Multi Cuisine,No,No,3.4,0,100,Dining,The restaurant decor is stunning,Positive
+Thanishka Nati And Karavali Style,No,No,3.1,0,400,Dining,The experience was disappointing,Negative
+Swathi Cool Point,No,No,4.1,0,200,Dining,Service was awful,Negative
+Kaumudis Juoice,No,No,3.3,0,150,Dining,I loved the ambiance,Positive
+Amma - Manae,No,No,3.1,0,400,Dining,Service was awful,Negative
+Sri Sai Tiffannies,No,No,3.3,0,150,Dining,The food was great!,Positive
+Hotel Andhra Speices,No,No,2.9,0,250,Dining,The food was great!,Positive
+Sri Murari Family Restaurant,No,No,2.9,0,250,Dining,The service was subpar,Neutral
+Aramane Donne Biriyani,No,No,2.9,0,150,Dining,The restaurant decor is stunning,Positive
+Darkolates,No,No,3.3,0,200,Dining,The desserts were amazing,Positive
+Swaada Healthy Kitchen,No,No,3.3,0,350,Dining,The restaurant decor is stunning,Positive
+Gawdaru Mane Beriyani,No,No,3.3,0,300,Dining,The restaurant decor is stunning,Positive
+Melting Melodies,No,No,3.3,0,100,Dining,I would definitely recommend this place,Neutral
+New Indraprasta,No,No,3.3,0,150,Dining,The food took too long to arrive,Negative
+Anna Kuteera,Yes,No,4.0,771,450,Dining,The desserts were amazing,Positive
+Darbar,No,No,3.0,98,800,Dining,I would definitely recommend this place,Neutral
+Vijayalakshmi,Yes,No,3.9,47,200,Dining,The food took too long to arrive,Negative
